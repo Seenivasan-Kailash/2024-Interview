@@ -137,7 +137,7 @@ class HomeWidget extends StatelessWidget {
                         ],
                       ),
                       IconButton(onPressed: ()=>openBottomSheet(context), icon: const Icon(Icons.edit,color: Colors.red,))
-                    ],
+       ],
                   ),
                 ],
               );
